@@ -84,4 +84,6 @@ $ npm start
 
 * Q群： [130993112](http://shang.qq.com/wpa/qunwpa?idkey=51997458a52d534454fd15e901648bf1f2ed799fde954822a595d6794eadc521)
 * 官网： [http://uyu.us](http://uyu.us)
-* 微博： [蚁逅](http://weibo.com/antoor) 
+* 微博： [蚁逅](http://weibo.com/antoor)
+
+![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/loveshell/antSword?utm_source=oss&utm_medium=github&utm_campaign=loveshell%2FantSword&labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit+Reviews)
